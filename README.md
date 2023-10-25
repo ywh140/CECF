@@ -10,7 +10,7 @@ cd transformers; pip install .; cd ..
 ```
 
 ### 3. Download pre-trained files
-we use the pre training files provided by our baseline.
+we use the pre-trained files provided by our baseline.
 please refer to the code of the paper "Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation" for details.
 
 
