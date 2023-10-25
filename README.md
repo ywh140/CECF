@@ -14,13 +14,13 @@ we use the pre-trained files provided by our baseline.
 please refer to the code of the paper "Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation" for details.
 
 
-### 3. Run script
+### 4. Run script
 
 ```
 python fewrel_5shot_mem_1.2dw.py
 ```
 
-### 4. Attention: The problems you may encounter.
+### 5. Attention: The problems you may encounter.
 #### transformer
 '''
 pip uninstall transformers
